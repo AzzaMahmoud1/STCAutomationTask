@@ -1,0 +1,72 @@
+2023-03-29 23:17:10,183 - Open browser  -INFO - Opening Browser ...
+2023-03-29 23:17:10,186 - Open browser  -INFO - Open URL = https://subscribe.stctv.com/sa-en
+2023-03-29 23:17:23,243 - Open browser  -INFO - Open the Excel file
+2023-03-29 23:17:23,796 - Open browser  -INFO - Open the Excel file
+2023-03-29 23:17:23,856 - Open browser  -INFO - Open the Excel file
+2023-03-29 23:17:24,068 - Check Element is displayed -INFO - landedCountry is Displayed successfully
+2023-03-29 23:17:24,116 - Check Element is displayed -INFO - Click on landedCountry
+2023-03-29 23:17:24,264 - Check Element is displayed -INFO - selectedCountry is Displayed successfully
+2023-03-29 23:17:25,982 - Check Element is displayed -INFO - Click on selectedCountry
+2023-03-29 23:17:26,033 - Check Element is displayed -INFO - plan is Displayed successfully
+2023-03-29 23:17:26,048 - Check Element is displayed -INFO - Text of plan = LITE
+2023-03-29 23:17:26,063 - Check Element is displayed -INFO - plan is Displayed successfully
+2023-03-29 23:17:26,072 - Check Element is displayed -INFO - Text of plan = CLASSIC
+2023-03-29 23:17:26,093 - Check Element is displayed -INFO - plan is Displayed successfully
+2023-03-29 23:17:26,102 - Check Element is displayed -INFO - Text of plan = PREMIUM
+2023-03-29 23:17:26,156 - Check Element is displayed -INFO - price is Displayed successfully
+2023-03-29 23:17:26,172 - Check Element is displayed -INFO - Text of price = 2
+2023-03-29 23:17:26,186 - Check Element is displayed -INFO - price is Displayed successfully
+2023-03-29 23:17:26,199 - Check Element is displayed -INFO - Text of price = 3
+2023-03-29 23:17:26,217 - Check Element is displayed -INFO - price is Displayed successfully
+2023-03-29 23:17:26,228 - Check Element is displayed -INFO - Text of price = 6
+2023-03-29 23:17:26,278 - Check Element is displayed -INFO - currency is Displayed successfully
+2023-03-29 23:17:26,290 - Check Element is displayed -INFO - Text of currency = BHD/month
+2023-03-29 23:17:26,311 - Check Element is displayed -INFO - currency is Displayed successfully
+2023-03-29 23:17:26,322 - Check Element is displayed -INFO - Text of currency = BHD/month
+2023-03-29 23:17:26,341 - Check Element is displayed -INFO - currency is Displayed successfully
+2023-03-29 23:17:26,352 - Check Element is displayed -INFO - Text of currency = BHD/month
+2023-03-29 23:17:26,456 - Check Element is displayed -INFO - landedCountry is Displayed successfully
+2023-03-29 23:17:26,555 - Check Element is displayed -INFO - Click on landedCountry
+2023-03-29 23:17:26,656 - Check Element is displayed -INFO - selectedCountry is Displayed successfully
+2023-03-29 23:17:29,691 - Check Element is displayed -INFO - Click on selectedCountry
+2023-03-29 23:17:29,769 - Check Element is displayed -INFO - plan is Displayed successfully
+2023-03-29 23:17:29,788 - Check Element is displayed -INFO - Text of plan = LITE
+2023-03-29 23:17:29,813 - Check Element is displayed -INFO - plan is Displayed successfully
+2023-03-29 23:17:29,824 - Check Element is displayed -INFO - Text of plan = CLASSIC
+2023-03-29 23:17:29,847 - Check Element is displayed -INFO - plan is Displayed successfully
+2023-03-29 23:17:29,859 - Check Element is displayed -INFO - Text of plan = PREMIUM
+2023-03-29 23:17:29,894 - Check Element is displayed -INFO - price is Displayed successfully
+2023-03-29 23:17:29,904 - Check Element is displayed -INFO - Text of price = 1.2
+2023-03-29 23:17:29,927 - Check Element is displayed -INFO - price is Displayed successfully
+2023-03-29 23:17:29,940 - Check Element is displayed -INFO - Text of price = 2.5
+2023-03-29 23:17:29,956 - Check Element is displayed -INFO - price is Displayed successfully
+2023-03-29 23:17:29,969 - Check Element is displayed -INFO - Text of price = 4.8
+2023-03-29 23:17:30,001 - Check Element is displayed -INFO - currency is Displayed successfully
+2023-03-29 23:17:30,011 - Check Element is displayed -INFO - Text of currency = KWD/month
+2023-03-29 23:17:30,032 - Check Element is displayed -INFO - currency is Displayed successfully
+2023-03-29 23:17:30,044 - Check Element is displayed -INFO - Text of currency = KWD/month
+2023-03-29 23:17:30,064 - Check Element is displayed -INFO - currency is Displayed successfully
+2023-03-29 23:17:30,076 - Check Element is displayed -INFO - Text of currency = KWD/month
+2023-03-29 23:17:30,113 - Check Element is displayed -INFO - landedCountry is Displayed successfully
+2023-03-29 23:17:30,198 - Check Element is displayed -INFO - Click on landedCountry
+2023-03-29 23:17:30,317 - Check Element is displayed -INFO - selectedCountry is Displayed successfully
+2023-03-29 23:17:32,239 - Check Element is displayed -INFO - Click on selectedCountry
+2023-03-29 23:17:32,282 - Check Element is displayed -INFO - plan is Displayed successfully
+2023-03-29 23:17:32,296 - Check Element is displayed -INFO - Text of plan = LITE
+2023-03-29 23:17:32,309 - Check Element is displayed -INFO - plan is Displayed successfully
+2023-03-29 23:17:32,320 - Check Element is displayed -INFO - Text of plan = CLASSIC
+2023-03-29 23:17:32,341 - Check Element is displayed -INFO - plan is Displayed successfully
+2023-03-29 23:17:32,362 - Check Element is displayed -INFO - Text of plan = PREMIUM
+2023-03-29 23:17:32,400 - Check Element is displayed -INFO - price is Displayed successfully
+2023-03-29 23:17:32,410 - Check Element is displayed -INFO - Text of price = 15
+2023-03-29 23:17:32,434 - Check Element is displayed -INFO - price is Displayed successfully
+2023-03-29 23:17:32,445 - Check Element is displayed -INFO - Text of price = 25
+2023-03-29 23:17:32,462 - Check Element is displayed -INFO - price is Displayed successfully
+2023-03-29 23:17:32,476 - Check Element is displayed -INFO - Text of price = 60
+2023-03-29 23:17:32,514 - Check Element is displayed -INFO - currency is Displayed successfully
+2023-03-29 23:17:32,530 - Check Element is displayed -INFO - Text of currency = SAR/month
+2023-03-29 23:17:32,554 - Check Element is displayed -INFO - currency is Displayed successfully
+2023-03-29 23:17:32,566 - Check Element is displayed -INFO - Text of currency = SAR/month
+2023-03-29 23:17:32,589 - Check Element is displayed -INFO - currency is Displayed successfully
+2023-03-29 23:17:32,601 - Check Element is displayed -INFO - Text of currency = SAR/month
+2023-03-29 23:17:33,254 - Close browser  -INFO - Close Browser ...
